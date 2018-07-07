@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_beranda"
+            android:icon="@drawable/ic_action_home"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/nav_ProfilPelamar"
+            android:icon="@drawable/ic_action_userr"
+            android:title="Biodata Pelamar" />
+        <item
+            android:id="@+id/nav_pendidikan"
+            android:icon="@drawable/ic_action_pendidikan"
+            android:title="Input Pendidikan" />
+
+        <item
+            android:id="@+id/nav_AplikasiSaya"
+            android:icon="@drawable/ic_action_aplikasisaya"
+            android:title="Aplikasi Saya" />
+        <item
+            android:id="@+id/nav_Keluar"
+            android:icon="@drawable/ic_action_keluar"
+            android:title="Keluar" />
+    </group>
+
+
+</menu>

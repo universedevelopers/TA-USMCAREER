@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21b4ff</color>
+    <color name="colorPrimaryDark">#47c1ff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTab">#fd0105</color>
+    <color name="colorPutih">#ffffff</color>
+    <color name="colorTab2">#47c1ff</color>
+    <color name="colorTab1">#21b4ff</color>
+    <color name="colorTaber">#14afff</color>
+    <color name="colorHijau">#42f495</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colormerah">#ff4130</color>
+    <color name="colorAbuabu">#686464</color>
+
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="ColorPrimary">#e62117</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+    <color name="tabsScrollColor">#8a140e</color>
+</resources>
